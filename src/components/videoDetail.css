@@ -1,0 +1,10 @@
+.video-frame {
+    height: 400px;
+}
+
+.card {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    font-weight: 400;
+}
